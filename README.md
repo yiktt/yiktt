@@ -1,6 +1,6 @@
 ### Hi there, I'm Noah 👋
 
-Now I'm working at Bytedance Ltd as a web frontend developer.
+Now I'm a student.
 
 TG：[c88868](https://t.me/c88868) / ins：[noah_cit](https://www.instagram.com/noah_cit/) / mail：[c7777777@88.com](mailto:c7777777@88.com) /
 
