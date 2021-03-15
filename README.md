@@ -1,8 +1,8 @@
-### Hi there, I'm 11_Kebi 👋
+### Hi there, I'm Noah 👋
 
 Now I'm working at Bytedance Ltd as a web frontend developer.
 
-掘金：[ssh](https://juejin.im/user/2330620350708823) / 知乎：[ssh](https://www.zhihu.com/people/ssh-fe) / 公众号：[前端从进阶到入院](https://user-gold-cdn.xitu.io/2020/4/5/17149cbcaa96ff26?imageView2/0/w/1280/h/960/format/webp/ignore-error/1) / LeetCode：[ssh](https://leetcode-cn.com/u/ssh-2/)
+TG：[c88868](https://t.me/c88868) / ins：[noah_cit](https://www.instagram.com/noah_cit/) / mail：[c7777777@88.com](mailto:c7777777@88.com) /
 
 **Languages and Tools:**  
 
