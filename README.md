@@ -2,7 +2,7 @@
 
 Now I'm a student.
 
-TG：[c88868](https://t.me/c88868) / ins：[noah_cit](https://www.instagram.com/noah_cit/) / mail：[c7777777@88.com](mailto:c7777777@88.com) /
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/tg.ico)](https://t.me/c88868) / [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/ins.ico)](https://www.instagram.com/noah_cit/) / [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/email.png)](mailto:c7777777@88.com) /
 
 [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/ins.ico)](https://cjl0372.github.io/)
 **Languages and Tools:**  
