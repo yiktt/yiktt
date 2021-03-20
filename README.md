@@ -2,9 +2,10 @@
 
 Now I'm a student.
 
-[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/tg.ico)](https://t.me/c88868) / [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/ins.ico)](https://www.instagram.com/noah_cit/) / [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/e-mail.png)](mailto:c7777777@88.com) /
+##Contact me:
 
-[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/ins.ico)](https://cjl0372.github.io/)
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/tg.ico)](https://t.me/c88868)  [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/ins.ico)](https://www.instagram.com/noah_cit/)  [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/e-mail.png)](mailto:c7777777@88.com) 
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
