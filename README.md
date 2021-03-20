@@ -4,6 +4,7 @@ Now I'm a student.
 
 TG：[c88868](https://t.me/c88868) / ins：[noah_cit](https://www.instagram.com/noah_cit/) / mail：[c7777777@88.com](mailto:c7777777@88.com) /
 
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn/ins.ico)](https://cjl0372.github.io/)
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
