@@ -14,6 +14,9 @@ Now I'm a student 👦
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/csharp.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/Visual%20Studio.png"></code>
 
+### Fund me 💰:
+
+[![](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/QQ.png)](https://t.me/c88868)
 
 [![ssh's github stats](https://github-readme-stats.vercel.app/api?username=noahcn)](https://github.com/noahcn)
 
