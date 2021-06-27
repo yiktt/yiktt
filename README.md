@@ -9,8 +9,10 @@ Now I'm a student 👦
 **Languages and Tools: 💻**  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/java.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/Idea.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/eclipse.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/Visual%20Studio.png"></code>
+
 
 [![ssh's github stats](https://github-readme-stats.vercel.app/api?username=noahcn)](https://github.com/noahcn)
 
