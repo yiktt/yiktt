@@ -11,6 +11,7 @@ Now I'm a student 👦
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/java.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/Idea.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/eclipse.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/csharp.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/Visual%20Studio.png"></code>
 
 
