@@ -16,7 +16,7 @@ Now I'm a student 👦
 
 ### Fund me 💰:
 
-<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/QQ.png" width="40" height="40" alt="抖音小程序"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/QQ.png" width="40" height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/qq.jpg"/><br/>
 
 [![ssh's github stats](https://github-readme-stats.vercel.app/api?username=noahcn)](https://github.com/noahcn)
 
