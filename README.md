@@ -16,7 +16,7 @@ Now I'm a student 👦
 
 ### Fund me 💰:
 
-[<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/QQ.png" width="40" height="40">](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/qq.jpg)
+<!---[<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/QQ.png" width="40" height="40">](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/qq.jpg) -->
 [<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/微信.png" width="40" height="40">](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/wx.jpg)
 [<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/支付宝.png" width="40" height="40">](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/zfb.jpg)
 [<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/paypal.png" width="40" height="40">](https://paypal.me/cjlcn)
