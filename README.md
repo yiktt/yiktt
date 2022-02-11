@@ -4,6 +4,7 @@
 
 ## [![](https://cdn.jsdelivr.net/gh/noahcn/cdn/tg.ico)](https://t.me/noah_cn) <!--- [![](https://cdn.jsdelivr.net/gh/noahcn/cdn/ins.ico)](https://www.instagram.com/noah_cit/) --> [![](https://cdn.jsdelivr.net/gh/noahcn/cdn/e-mail.png)](mailto:noah_cn@outlook.com)  <!--- [![](https://cdn.jsdelivr.net/gh/noahcn/cdn/twitter.ico)](https://twitter.com/China_JL_666)  [![](https://cdn.jsdelivr.net/gh/noahcn/cdn/fb.ico)](https://www.facebook.com/profile.php?id=100036451336422) --> <!---[![](https://cdn.jsdelivr.net/gh/noahcn/cdn/wb.ico)](https://weibo.com/u/5014247582)--> <!--- [![](https://cdn.jsdelivr.net/gh/noahcn/cdn/zh.ico)](https://www.zhihu.com/people/cao-da-ren-32-21) -->
 
+<!---
 **Languages and Tools: 💻**  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/java.png"></code>
@@ -11,7 +12,7 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/eclipse.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/csharp.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/Visual%20Studio.png"></code>
-
+-->
 ### Fund me 💰:
 
 <!---[<img src="https://cdn.jsdelivr.net/gh/noahcn/cdn@master/QQ.png" width="40" height="40">](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/qq.jpg) -->
