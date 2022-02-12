@@ -1,4 +1,4 @@
-### Hi there, I'm Noah 👋
+### I'm Noah 👋
 
 ### Contact me 📞:
 
