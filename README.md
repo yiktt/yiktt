@@ -1,6 +1,6 @@
 ### I'm Yiktt 👋
 
-### Contact me 📞:
+### Contact me 🙋‍♂:
 
 [![](https://cdn.jsdelivr.net/gh/yiktt/cdn/picture/yikttgithub/tg.svg)](https://t.me/renminqz)
 [![](https://cdn.jsdelivr.net/gh/yiktt/cdn/picture/yikttgithub/gmail.svg)](mailto:yiktt@proton.me)
