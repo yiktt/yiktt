@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HI%20THERE!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=多喜乐，常安宁。&descAlignY=51&descAlign=62"/>
+</p>
+
 ### Hi 👋
 
 ### Contact me 🙋‍♂:
