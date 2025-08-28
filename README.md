@@ -2,6 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HI%20THERE!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=多喜乐，常安宁。&descAlignY=51&descAlign=62"/>
 </p>
 <p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/yiktt"><img src="https://img.shields.io/badge/GitHub-yiktt-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="mailto:yiktt@proton.me"><img src="https://img.shields.io/badge/Proton-yiktt-purple?logo=proton" alt="Proton" title="Proton" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/yiktt"><img src="https://komarev.com/ghpvc/?username=yiktt&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+<p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=This+world+will+get+better;%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E7%9A%84" alt="Hello World" title="Hello World"/>
 </p>
@@ -12,12 +19,5 @@
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yiktt&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
-<p align="center">
-    <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/yiktt"><img src="https://img.shields.io/badge/GitHub-yiktt-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="mailto:yiktt@proton.me"><img src="https://img.shields.io/badge/Proton-yiktt-purple?logo=proton" alt="Proton" title="Proton" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/yiktt"><img src="https://komarev.com/ghpvc/?username=yiktt&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 
