@@ -7,6 +7,7 @@
 </p>
 <p align="center">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yiktt&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+    <img width="400" src="https://streak-stats.demolab.com?user=yiktt&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
 ### Hi 👋
