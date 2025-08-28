@@ -13,13 +13,11 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yiktt&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
-
-### Hi 👋
-
-### Contact me 🙋‍♂:
-
-[![](https://cdn.jsdelivr.net/gh/yiktt/cdn/img/yiktt/tg.svg)](https://t.me/SanRenBot)
-[![](https://cdn.jsdelivr.net/gh/yiktt/cdn/img/yiktt/gmail.svg)](mailto:yiktt@proton.me)
-
-
+<p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/yiktt"><img src="https://img.shields.io/badge/yiktt-white?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="mailto:yiktt@proton.me"><img src="https://img.shields.io/badge/Proton-yiktt-blue?logo=proton" alt="Proton" title="Proton" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/yiktt"><img src="https://komarev.com/ghpvc/?username=yiktt&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
 
