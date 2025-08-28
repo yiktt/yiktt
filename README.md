@@ -5,7 +5,7 @@
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/yiktt"><img src="https://img.shields.io/badge/GitHub-yiktt-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="mailto:yiktt@proton.me"><img src="https://img.shields.io/badge/Proton-yiktt-purple?logo=proton" alt="Proton" title="Proton" /></a>
-    <a href="https://yiktt.github.io/"><img src="https://img.shields.io/badge/web-yiktt-c32136?logo=zhuye" alt="web" title="web" /></a>
+    <a href="https://yiktt.github.io/"><img src="https://custom-icon-badges.demolab.com/badge/web-yiktt-c32136.svg?logo=zhuye" alt="web" title="web" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/yiktt"><img src="https://komarev.com/ghpvc/?username=yiktt&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
