@@ -9,6 +9,10 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=yiktt&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=yiktt&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yiktt&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
 
 ### Hi 👋
 
