@@ -15,8 +15,8 @@
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/yiktt"><img src="https://img.shields.io/badge/yiktt-white?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="mailto:yiktt@proton.me"><img src="https://img.shields.io/badge/Proton-yiktt-blue?logo=proton" alt="Proton" title="Proton" /></a>
+    <a href="https://github.com/yiktt"><img src="https://img.shields.io/badge/yiktt-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="mailto:yiktt@proton.me"><img src="https://img.shields.io/badge/Proton-yiktt-purple?logo=proton" alt="Proton" title="Proton" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/yiktt"><img src="https://komarev.com/ghpvc/?username=yiktt&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
