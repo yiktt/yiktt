@@ -37,8 +37,7 @@ $ cat contact.json
 ```json
 {
   "email": "yiktt@proton.me",
-  "telegram": "@yiktt_bot",
-  "github": "https://github.com/yiktt"
+  "telegram": "@yiktt_bot"
 }
 ```
 
