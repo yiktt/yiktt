@@ -19,6 +19,8 @@
 ```yaml
 name: 韭菜
 role: 前端 / 静态站点爱好者
+current_project: 今日热榜 · HotBoard
+project_summary: 46 个平台热榜与新闻头条聚合，5 大分类、地区切换、全局搜索；纯静态、零构建、零后端，自托管字体、CSP 加固，第三方数据可能延迟。
 philosophy: 少即是多，能跑就行
 interests:
   - 纯静态、零依赖、打开就能用
