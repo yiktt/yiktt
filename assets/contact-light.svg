@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" xml:lang="zh-CN" role="img" aria-labelledby="contactTitle contactDesc">
+  <title id="contactTitle">韭菜 · 联系方式</title>
+  <desc id="contactDesc">联络卡：邮箱与 Telegram 两条联系通道</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="40" y1="30" x2="1240" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FCFCF8"/>
+      <stop offset="0.55" stop-color="#F5F7F0"/>
+      <stop offset="1" stop-color="#F0F4F2"/>
+    </linearGradient>
+    <linearGradient id="name" x1="96" y1="170" x2="370" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F2328"/>
+      <stop offset="1" stop-color="#4B5563"/>
+    </linearGradient>
+    <linearGradient id="fadeLine" x1="96" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1A7F37" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#1A7F37" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowGreen" cx="1050" cy="130" r="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2DA44E" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2DA44E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="160" cy="390" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0969DA" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nodeGlow" cx="1010" cy="210" r="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2DA44E" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2DA44E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#1A7F37" fill-opacity="0.09"/>
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="40" y="30" width="1200" height="360" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="40" y="30" width="1200" height="360" fill="url(#bg)"/>
+    <rect x="40" y="30" width="1200" height="360" fill="url(#dots)"/>
+    <rect x="40" y="30" width="1200" height="360" fill="url(#glowGreen)"/>
+    <rect x="40" y="30" width="1200" height="360" fill="url(#glowBlue)"/>
+  </g>
+
+  <rect x="40.5" y="30.5" width="1199" height="359" rx="25.5" fill="none" stroke="#1F2328" stroke-opacity="0.12"/>
+
+  <circle cx="84" cy="86" r="3.5" fill="#1A7F37"/>
+  <text x="98" y="90" font-family="'PingFang SC','Noto Sans SC','Microsoft YaHei',sans-serif" font-size="12" letter-spacing="3" fill="#57606A">联系方式</text>
+  <text x="184" y="90" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.2" fill="#1A7F37">/ CONTACT</text>
+
+  <rect x="72" y="164" width="3" height="118" rx="1.5" fill="#1A7F37"/>
+  <text x="96" y="262" font-family="'PingFang SC','Noto Sans SC','Microsoft YaHei','Source Han Sans SC',sans-serif" font-size="122" font-weight="700" letter-spacing="7" fill="url(#name)">韭菜</text>
+  <path d="M96 308 H520" stroke="url(#fadeLine)" stroke-width="1"/>
+
+  <path d="M386 210 H620 L642 190 L664 230 L686 210 H938" fill="none" stroke="#1A7F37" stroke-opacity="0.28" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="386" cy="210" r="2.4" fill="#1A7F37" fill-opacity="0.65"/>
+  <circle cx="938" cy="210" r="2.4" fill="#1A7F37" fill-opacity="0.65"/>
+
+  <circle cx="1010" cy="210" r="150" fill="url(#nodeGlow)"/>
+  <circle cx="1010" cy="210" r="66" fill="none" stroke="#1A7F37" stroke-opacity="0.12" stroke-dasharray="2 8"/>
+  <circle cx="1010" cy="210" r="40" fill="none" stroke="#1A7F37" stroke-opacity="0.18"/>
+  <circle cx="1010" cy="210" r="18" fill="none" stroke="#1A7F37" stroke-opacity="0.35"/>
+  <circle cx="1010" cy="210" r="5.5" fill="#1A7F37"/>
+  <path d="M1018 196 C1060 170 1096 148 1132 141" fill="none" stroke="#1A7F37" stroke-opacity="0.52" stroke-width="1.3"/>
+  <path d="M1018 224 C1060 250 1096 272 1132 279" fill="none" stroke="#1A7F37" stroke-opacity="0.34" stroke-width="1.3"/>
+  <circle cx="1134" cy="140" r="2.6" fill="#1A7F37"/>
+  <circle cx="1134" cy="280" r="2.6" fill="#1A7F37"/>
+
+  <g fill="none" stroke="#424A53" stroke-opacity="0.85" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1148" y="126" width="36" height="26" rx="4.5"/>
+    <path d="M1151.5 131.5 L1166 142 L1180.5 131.5"/>
+  </g>
+  <text x="1166" y="176" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.2" fill="#57606A">MAIL</text>
+
+  <g fill="none" stroke="#424A53" stroke-opacity="0.85" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1147 281 L1186 264 L1171 299 L1164 287 Z"/>
+    <path d="M1164 287 L1186 264"/>
+  </g>
+  <text x="1166" y="322" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="1.8" fill="#57606A">TELEGRAM</text>
+</svg>
